@@ -1,12 +1,54 @@
-# React + Vite
+# Brainwave - AI Chat UI/UX 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brainwave is a modern and responsive **UI/UX  for an AI-powered chat platform**, built with **React, Vite, and TailwindCSS**. This project provides an elegant frontend design for AI-driven conversations, collaboration, and interactive features.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive and sleek **chat interface**
+- AI-powered **UI components** for seamless interaction
+- Designed using **TailwindCSS** for modern styling
+- Built with **Vite** for fast development and optimized performance
+- Includes **buttons, chat bubbles, pricing sections, and more**
 
-## Expanding the ESLint configuration
+## 📺 Based on JavaScript Mastery
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was built following the **JavaScript Mastery** tutorial:
+🔗 [YouTube Video](https://www.youtube.com/watch?v=RbxHZwFtRT4&t=14266s)
+
+## 🛠️ Technologies Used
+
+- **React** – Frontend framework
+  **react-just-parallax** – For smooth parallax scrolling effects
+- **Vite** – Fast build tool
+- **TailwindCSS** – Styling
+- **React Router** – For navigation
+
+## 📦 Installation & Setup
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/Oran01/brainwave.git
+   cd brainwave
+   ```
+
+2. **Install dependencies:**
+
+   ```sh
+   npm install
+   ```
+
+3. **Start the development server:**
+
+   ```sh
+   npm run dev
+   ```
+
+4. Open [http://localhost:5173] (<http://localhost:5173>) in your browser.
+
+## 🤝 Contributing
+
+Feel free to fork this repository and submit pull requests to improve the project!
+
+---
+🌟 Star this repo if you found it useful! ⭐
